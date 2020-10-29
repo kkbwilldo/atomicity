@@ -2,3 +2,6 @@
 ## 민준이 바보
 - hello
 > - world!
+>> - minjun
+- minjun $\rightarrow$ kybin
+

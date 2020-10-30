@@ -1,4 +1,5 @@
-
+# 딥러닝을 활용한 야간케어봇
+## team ATOMIC
 <div>
   <img width="1000" src="https://user-images.githubusercontent.com/73627278/97654279-eb079200-1aa5-11eb-9984-336c44e58278.PNG">
   <img width="1000" src="https://user-images.githubusercontent.com/73627278/97654292-f22ea000-1aa5-11eb-807c-6ac7a6bc501f.PNG">
